@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MobiusEngine.ai/static/css/main.b128ed0d.css",
+    "main.js": "/MobiusEngine.ai/static/js/main.d2b7dbce.js",
+    "static/js/453.8ab44547.chunk.js": "/MobiusEngine.ai/static/js/453.8ab44547.chunk.js",
+    "static/media/home.png": "/MobiusEngine.ai/static/media/home.1b7aba234ea314c6713f.png",
+    "static/media/Last.png": "/MobiusEngine.ai/static/media/Last.dc0984a3181f5d831a11.png",
+    "static/media/1.png": "/MobiusEngine.ai/static/media/1.d642a768676503117555.png",
+    "static/media/2.png": "/MobiusEngine.ai/static/media/2.384c5481090141603eaf.png",
+    "static/media/why.png": "/MobiusEngine.ai/static/media/why.db3d9fffdb62656e71c4.png",
+    "index.html": "/MobiusEngine.ai/index.html",
+    "main.b128ed0d.css.map": "/MobiusEngine.ai/static/css/main.b128ed0d.css.map",
+    "main.d2b7dbce.js.map": "/MobiusEngine.ai/static/js/main.d2b7dbce.js.map",
+    "453.8ab44547.chunk.js.map": "/MobiusEngine.ai/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b128ed0d.css",
+    "static/js/main.d2b7dbce.js"
+  ]
+}
